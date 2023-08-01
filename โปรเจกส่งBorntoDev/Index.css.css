@@ -1,0 +1,99 @@
+.FirstHead {
+    color: cadetblue;
+    font-size: 50px;
+    border-style: solid;
+    border-color: firebrick;
+    border-radius: 15px;
+    border-width: 4px;
+    background-color: black;
+    max-width: 1200px;
+    text-align: center;
+    width: fit-content;
+    padding: 5px;
+    box-shadow:5px 5px 10px 5px black ;
+}
+.para{
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    
+}
+.backgroundbox{
+    background-color: black;
+    width: fit-content;
+    padding-left: 15px;
+    padding-right: 15px;
+    border:solid 3px white;
+    border-radius: 10px;
+    max-width: 750px;
+    box-shadow:5px 5px 10px 5px black ;
+    float:right;
+    margin-right:100px;
+    
+    
+    
+    
+    
+}
+
+.marginbot{
+    margin-bottom: -20px;
+}
+
+.marginleft{
+    margin-left: 500px;
+}
+
+.h1 {
+    padding-left: 120px;
+}
+
+.container {
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 0px;
+    width: 1200px;
+}
+
+
+.Ayano {
+
+    color: brown;
+    padding: 20px;
+    width: 600px;
+    text-align: center;
+}
+
+
+.Horikita {
+
+    color: brown;
+    padding: 20px;
+    width: 600px;
+    text-align: center;
+}
+
+.margin_img {
+    margin-bottom: 30px;
+}
+
+
+
+
+.a {
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-size: 20px;
+
+}
+
+.a:hover {
+    background-color: darkgray;
+    border: solid floralwhite;
+    font-size: 30px;
+
+}
